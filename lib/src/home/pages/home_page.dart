@@ -118,9 +118,9 @@ class HomePage extends StatelessWidget {
           // HomeStarter Section: Introduction
           HomeStarter(
             id: item.id,
-            title: "A Chapa da categoria Vote 52 Vote 101",
+            title: "A Chapa da Autonomia Vote 02  Vote 101 Vote 52",
             subtitle:
-                "Somos técnicos atuantes há décadas e com muita luta conseguimos a criação do CRT-07(PA/AP) garantindo autonomia para nossa região.VOTE 02, VOTE 101, VOTE 52 PARA CONTINUAR ESSA LUTA! ",
+                "Décadas de luta forjaram o CRT-07 (PA/AP). Pela autonomia, vote com propósito: 02, 101, 52.",
           ),
 
           // HomeFeatures Section: Key Features
@@ -128,7 +128,7 @@ class HomePage extends StatelessWidget {
             id: item.id,
             title: 'Os Candidatos',
             subtitle:
-                'Conheça os candidatos que estão concorrendo a diretoria executiva CRT-07 e o conselheiro federal pelo Pará.',
+                'Conheça os candidatos à Diretoria Executiva do CFT, ao Conselho Federal pelo Pará e à Diretoria Executiva do CRT-07.',
             cards: const [
               CardModel(
                 source: 'assets/image/vicente_carneiro.png', // ← Foto do Abelardo
